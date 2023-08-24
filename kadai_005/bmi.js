@@ -10,5 +10,8 @@ let weight;
 //体重の値
 weight = 68;
 
-//BMIの式
-console.log(weight/(height*height))
+//BMIの宣言
+let BMI;
+
+//BMIの値
+BMI = console.log(weight/(height*height))
